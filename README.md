@@ -128,7 +128,6 @@ Performance Visualization
 urban-transit-analytics/
 │
 ├── BUS_TRACKING_SYSTEM.ipynb
-├── Report.pdf
 ├── requirements.txt
 └── README.md
 ```
