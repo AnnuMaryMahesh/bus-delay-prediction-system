@@ -1,4 +1,4 @@
-# Urban Transit Delay Prediction & Schedule Exception Detection: Bus Delay Prediction System
+# Urban Transit Delay Prediction & Schedule Exception Detection
 
 A machine learning-based predictive analytics system for urban transit delay forecasting and delay classification. The project uses historical transit features such as traffic density, weather conditions, distance, and temporal attributes to predict bus delays and identify potentially delayed trips.
 
